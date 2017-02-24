@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Grocery Store/Grocery Store_Obese_G.unity
+  isLoaded: 1
+  isActive: 1
